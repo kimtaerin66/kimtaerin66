@@ -19,7 +19,7 @@
 
 
 ### ✏ I'm learning :
-![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=Next.js) ![ReactNative](https://img.shields.io/badge/-ReactNative-purple?style=flat-square&logo=reactNative) ![Express.JS](https://img.shields.io/badge/-Express.JS-green?style=flat-square&logo=express.js)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=Next.js) ![ReactNative](https://img.shields.io/badge/-ReactNative-purple?style=flat-square&logo=reactNative) ![Express.JS](https://img.shields.io/badge/-Express.JS-green?style=flat-square&logo=express.js) ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=Redux)
 
 ### 😋another skills :
 ![PhotoShop](https://img.shields.io/badge/PhotoShop-blue?style=flat-square&logo=AdobePhotoshop) 
