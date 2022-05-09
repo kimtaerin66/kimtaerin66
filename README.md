@@ -6,7 +6,7 @@
 ### ⚡ Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS5](https://img.shields.io/badge/-CSS5-1572B6?style=flat-square&logo=css5)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![ReactQuery](https://img.shields.io/badge/-ReactQuery-lightpink?style=flat-square&logo=reactQUERY)
