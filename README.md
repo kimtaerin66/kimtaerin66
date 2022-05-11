@@ -12,14 +12,14 @@
 ![ReactQuery](https://img.shields.io/badge/-ReactQuery-lightpink?style=flat-square&logo=reactQUERY)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-E34F26?style=flat-square&logo=github)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
 ![StyledComponents](https://img.shields.io/badge/StyledComponents-pink?style=flat-square&logo=styledcomponents)
 
 
 ### ✏ I'm learning :
 ![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=Next.js) ![ReactNative](https://img.shields.io/badge/-ReactNative-purple?style=flat-square&logo=reactNative) ![Express.JS](https://img.shields.io/badge/-Express.JS-green?style=flat-square&logo=express.js) ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=Redux)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
 
 ### 😋another skills :
 ![PhotoShop](https://img.shields.io/badge/PhotoShop-blue?style=flat-square&logo=AdobePhotoshop) 
