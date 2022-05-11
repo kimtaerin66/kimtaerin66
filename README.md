@@ -17,7 +17,7 @@
 
 
 ### ✏ I'm learning :
-![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=Next.js) ![ReactNative](https://img.shields.io/badge/-ReactNative-purple?style=flat-square&logo=reactNative) ![Express.JS](https://img.shields.io/badge/-Express.JS-green?style=flat-square&logo=express.js) ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=Redux)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=Next.js) ![ReactNative](https://img.shields.io/badge/-ReactNative-purple?style=flat-square&logo=reactNative) ![Node.Express](https://img.shields.io/badge/-NodeExpress-green?style=flat-square&logo=nodeExpress) ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=Redux)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
 
