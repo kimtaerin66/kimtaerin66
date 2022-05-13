@@ -27,3 +27,4 @@
 
 ## 📚Portfolio 
 TIL : https://github.com/kimtaerin66/TIL
+<img src="/TIL/IMG/thecontents.JPG" width="25%" height="300px" title="px(픽셀) 크기 설정" alt="portfolio1"></img>
