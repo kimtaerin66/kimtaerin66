@@ -27,6 +27,12 @@
 
 ## 📚Portfolio 
 TIL : https://github.com/kimtaerin66/TIL
+### 1. TheContents- 영화.드라마 (React.js)
+[![영화/무비 앱](./thecontents.JPG)](https://kimtaerin66.github.io/thecontents/)
 
-[![영화/드라마 앱]("./thecontents.JPG")](https://kimtaerin66.github.io/thecontents/)
+### 2. Trello - ToDoList (React.js)
+[![영화/무비 앱](./thecontents.JPG)](https://kimtaerin66.github.io/thecontents/)
+
+### 3. Trello - ToDoList (React Native)
+[![영화/무비 앱](./thecontents.JPG)](https://kimtaerin66.github.io/thecontents/)
 
