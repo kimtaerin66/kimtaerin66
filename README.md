@@ -28,7 +28,5 @@
 ## 📚Portfolio 
 TIL : https://github.com/kimtaerin66/TIL
 
+[![영화/드라마 앱]("./thecontents.JPG")](https://kimtaerin66.github.io/thecontents/)
 
-<img src="./thecontents.JPG" width="32%" height="250px" title="px(픽셀) 크기 설정" alt="portfolio1"><a>https://kimtaerin66.github.io/thecontents/</a></img>
-<img src="./thecontents.JPG" width="32%" height="250px" title="px(픽셀) 크기 설정" alt="portfolio1"></img>
-<img src="./thecontents.JPG" width="32%" height="250px" title="px(픽셀) 크기 설정" alt="portfolio1"></img>
