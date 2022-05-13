@@ -29,6 +29,6 @@
 TIL : https://github.com/kimtaerin66/TIL
 
 
-<img src="./thecontents.JPG" width="33.3%" height="300px" title="px(픽셀) 크기 설정" alt="portfolio1"></img>
-<img src="./thecontents.JPG" width="33.3%" height="300px" title="px(픽셀) 크기 설정" alt="portfolio1"></img>
-<img src="./thecontents.JPG" width="33.3%" height="300px" title="px(픽셀) 크기 설정" alt="portfolio1"></img>
+<img src="./thecontents.JPG" width="32%" height="250px" title="px(픽셀) 크기 설정" alt="portfolio1"></img>
+<img src="./thecontents.JPG" width="32%" height="250px" title="px(픽셀) 크기 설정" alt="portfolio1"></img>
+<img src="./thecontents.JPG" width="32%" height="250px" title="px(픽셀) 크기 설정" alt="portfolio1"></img>
