@@ -30,8 +30,8 @@ TIL : https://github.com/kimtaerin66/TIL
 ### 1. TheContents- 영화.드라마 (React.js)
 [![영화/무비 앱](./thecontents.JPG)](https://kimtaerin66.github.io/thecontents/)
 
-### 2. Trello - ToDoList (React.js)
-[![영화/무비 앱](./thecontents.JPG)](https://kimtaerin66.github.io/thecontents/)
+### 2. MY Bluebird - 트윗, 사진업로드 (React.js)
+[![SNS 앱](./bulebird.JPG)](https://kimtaerin66.github.io/bluebird/)
 
 ### 3. Trello - ToDoList (React Native)
 [![영화/무비 앱](./thecontents.JPG)](https://kimtaerin66.github.io/thecontents/)
