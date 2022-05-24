@@ -34,7 +34,7 @@ TIL : https://github.com/kimtaerin66/TIL
 [![SNS 앱](./bluebird.JPG)](https://kimtaerin66.github.io/bluebird/)
 
 ### 3. The Coin - 코인정보 보기 (React.js)
-[!코인시세 앱](./thecoinImg.JPG)](https://kimtaerin66.github.io/thecoin/)
+[![코인시세 앱](./thecoinImg.JPG)](https://kimtaerin66.github.io/thecoin/)
 
 ### 4. Trello - ToDoList (React.js)
-[!메모 앱](./thecoinImg.JPG)](https://kimtaerin66.github.io/thecoin/)
+[![메모 앱](./thecoinImg.JPG)](https://kimtaerin66.github.io/thecoin/)
