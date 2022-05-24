@@ -1,7 +1,6 @@
-# 개발자에 도전하는 웹디자이너
+# 마스터가 되고싶은 프론트엔드 개발자 김태린입니다.
 
-
-
+contact : kimtaerin0606@gamil.com
 
 ### ⚡ Technologies
 
