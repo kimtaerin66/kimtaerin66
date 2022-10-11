@@ -7,6 +7,7 @@ contact : kimtaerin0606@gamil.com
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![VueJs](https://img.shields.io/badge/-VueJs-blueviolet?style=flat-square&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![ReactQuery](https://img.shields.io/badge/-ReactQuery-lightpink?style=flat-square&logo=reactQUERY)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
