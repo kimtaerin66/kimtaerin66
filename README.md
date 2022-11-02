@@ -33,7 +33,6 @@ TIL : https://github.com/kimtaerin66/TIL
 ### 2. MY Bluebird - 트윗, 사진업로드 (React.js)
 [![SNS 앱](./bluebird.JPG)](https://kimtaerin66.github.io/bluebird/)
 
-### 3. The Coin - 코인정보 보기 (React.js)
-[![코인시세 앱](./thecoinImg.JPG)](https://kimtaerin66.github.io/thecoin/)
+
 
 
