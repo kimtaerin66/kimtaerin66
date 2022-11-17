@@ -1,6 +1,6 @@
 # 개발자 김태린입니다.
 
-contact : kimtaerin0606@gamil.com
+contact : kimtaerin0606@gmail.com
 
 ### ⚡ Technologies
 
