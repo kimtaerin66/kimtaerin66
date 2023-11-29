@@ -13,6 +13,7 @@ contact : kimtaerin0606@gmail.com
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-E34F26?style=flat-square&logo=github)
+![React](https://img.shields.io/badge/-React-skyblue?style=flat-square&logo=React&logoColor=white)
 
 
 ###  Work
